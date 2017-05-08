@@ -1,0 +1,52 @@
+[
+  {
+    "type": "BasicCard",
+    "front": "This college was originally named Atlanta Baptist Female Seminary?",
+    "back": "Spelman College"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "Established in 1865, Shaw University was the first HBCU in the South to be established after the American Civil War.",
+    "cloze": "Shaw University"
+  },
+  {
+    "type": "BasicCard",
+    "front": "How many HBCUs exist today?",
+    "back": "106"
+  },
+  {
+    "type": "BasicCard",
+    "front": "What is the name of the first Greek Lettered Organization founded on a HBCU?",
+    "back": "Omega Psi Phi"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "The name of the first medical school for African Americans is called Meharry Medical College .",
+    "cloze": "Meharry Medical College"
+  },
+  {
+    "type": "BasicCard",
+    "front": "First HBCU to grant elementary ed. teaching degrees.",
+    "back": "Winston-Salem State University"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "University of the Virgin Islands is the only HBCU outside of the continental US.",
+    "cloze": "University of the Virgin Islands"
+  },
+  {
+    "type": "BasicCard",
+    "front": "The world's largest consortium of African American private colleges: Morehouse, Morehouse School of Medicine, Spelman, Clark College, Atlanta Univ., Clark Atlanta University is called? ",
+    "back": "Atlanta University Center"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "Lincoln University is the United States' first degree-granting historically African American university.",
+    "cloze": "Lncoln University"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "The first HBCU owned and operated by African Americans was Wilberforce University in Ohio which was founded in 1856.",
+    "cloze": "Wilberforce University"
+  }
+]
